@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+my name is kariny xavier im a student in culto a ciencia 
 
 **xavierzanqueta322/xavierzanqueta322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
