@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- ![]([link](https://rollingstone.com.br/media/_versions/stranger-things-4-temporada-netflix-foto-divulgacao_widelg.jpg)
+- ![]([((https://rollingstone.com.br/media/_versions/stranger-things-4-temporada-netflix-foto-divulgacao_widelg.jpg)
  
